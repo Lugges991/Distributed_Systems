@@ -3,4 +3,8 @@ This repo contains exercises and example implementations of concepts found in th
 
 ## Contents
 + simple server in bash
-+ asynchronous programming example
++ asynchronous programming example in python
++ encryption in bash
+..* symmetric encryption with openssl
+..* asymmetric encryption with openssl
+..* hashing and digital signatures with openssl
