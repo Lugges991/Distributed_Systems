@@ -1,0 +1,28 @@
+<?xml version="1.0" ecoding="UTF-8"?>
+<course_schedule>
+    <course>
+        <name>Calculus</name>
+        <prof>Smith</prof>
+        <exam>28.02.2019</exam>
+        <room>A405</room>
+    </course>
+    <course>
+        <name>Linear Algebra</name>
+        <prof>Schmidt</prof>
+        <exam>22.02.2019</exam>
+        <room>A25</room>
+    </course>
+    <course>
+        <name>Programming</name>
+        <prof>Kratzer</prof>
+        <exam>19.02.2019</exam>
+        <room>B201</room>
+    </course>
+    <course>
+        <name>Calculus 2</name>
+        <prof>Smith</prof>
+        <exam>01.03.2019</exam>
+        <room>A003</room>
+    </course>
+</course_schedule>
+

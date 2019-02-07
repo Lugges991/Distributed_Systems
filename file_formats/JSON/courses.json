@@ -1,0 +1,6 @@
+{"course_schedule":[
+    {"course":"Calculus","prof":"Smith","exam":"22.01.19", "room":"A004"}, 
+    {"course":"Calculus 2","prof":"Smith","exam":"23.02.19", "room":"B042"}, 
+    {"course":"Linear Algebra","prof":"Herrmann","exam":"12.02.19", "room":"B203"},
+    {"course":"Programming 1","prof":"Kratzer","exam":"01.03.19", "room":"C011"}
+]}
